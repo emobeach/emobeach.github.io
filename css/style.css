@@ -1,0 +1,114 @@
+body{
+	color: white;
+	background-color: rgb(37, 45, 58);
+	font-family: "Palatino Linotype";
+	margin-bottom: 150px;
+}
+h2{
+	text-decoration: underline;
+	color: green;
+	font-size: 36pt;
+  	
+}
+a{
+	color: purple;
+	width: 50%;
+	padding: 12px;
+}
+p{
+	font-size: 12pt;
+	color: white;
+}
+li{
+	font-style: italic;
+}
+ul{
+	list-style-type: none;
+}
+table{
+	margin-left:200px;
+	margin-bottom: 10px;
+}
+form{
+	padding-left: 25px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 150px;
+	background: green;
+	width: 98%;
+	border:solid;
+	overflow: auto;
+}
+#navbar{
+	background-color: green;
+	width: 200px;
+	height: 100px;
+	position: absolute;
+}
+#navitem{
+	padding: 20px
+}
+#intro{
+	float: left;
+	width: 200px;
+	margin-top: 150px;
+	position: relative;
+}
+#bird{
+	float: right;
+	width: 66%;
+}
+.lists{
+	background-color: grey;
+	text-align: center;
+	margin-left: 200px;
+	top: 0px;
+	position:relative;
+	width: 400px;
+	border: solid;
+	margin-bottom: 10px;
+}
+	input[type=button]:hover{
+	border: solid;
+	background-color: green;
+}
+.music{
+	background-color: green;
+
+}
+#player{
+	position: fixed;
+	bottom: 0;
+
+
+}
+.container{
+	width: 600px;
+	overflow: auto;
+	max-width: 600px;
+}
+#l8{
+	position: fixed;
+	bottom: 0;
+	left:0;
+	height: 150px;
+	background: green;
+	width: 99%;
+	border:solid;
+	overflow: auto
+}
+#button{
+	position: fixed;
+	bottom: 25px;
+}
+#formContainer{
+	bottom: 0px;
+}
+#letstry{
+	top: 0px;
+}
+#doggo{
+	width: 100%;
+}
