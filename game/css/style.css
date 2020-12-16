@@ -1,13 +1,25 @@
-#board{
-    border: solid black 1px;
-}
-button{
-    width: 47px;
-}
-#column{
-    margin-left: 25px;
-}
-
-
-
-
+body{
+    background-color: black;
+  }
+  #board{
+      border: solid black 1px;
+  }
+  button{
+      width: 47px;
+  }
+  #column{
+      margin-left: 25px;
+      width: 400px;
+  }
+  h1{
+    color: white;
+    text-align: center;
+  }
+  #column{
+    width: 400px;
+  }
+  
+  
+  
+  
+  
