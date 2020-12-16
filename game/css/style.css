@@ -1,0 +1,13 @@
+#board{
+    border: solid black 1px;
+}
+button{
+    width: 47px;
+}
+#column{
+    margin-left: 25px;
+}
+
+
+
+
